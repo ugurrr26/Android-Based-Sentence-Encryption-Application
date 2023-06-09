@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/aes_select" android:title="AES">
+
+</item>
+    <item android:id="@+id/des_select" android:title="DES">
+    </item>
+    <item android:id="@+id/blowfish_select" android:title="BLOWFISH">
+
+    </item>
+</menu>
